@@ -10,6 +10,13 @@ p {
 main {
     background-image:url(https://www.itl.cat/pngfile/big/143-1439137_atletico-nacional-colombian-football-club-green-metal-atletico.jpg);
 }
-header { background-image:url(https://www.elsetge.cat/myimg/f/120-1203993_atletico-nacional-of-colombia-wallpaper-atletico-nacional.jpg);}
+header { background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSE5WPDYd6hkxrQ8zuTthX2AqLNHWQbPIOuLVF3UGSd3I5YD3dR);}
 
 footer {background-image:url(https://i.pinimg.com/236x/f2/2e/58/f22e585ec43eda8c97871c07ed1a29ef--football.jpg);}
+.parrafo1{
+    font-size: 50px;
+
+}
+.parrafo2{
+    color: red;
+}
